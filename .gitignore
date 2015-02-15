@@ -1,0 +1,11 @@
+app/config/parameters.yml
+app/*\.cache
+app/SymfonyRequirements.php
+app/cache
+app/logs
+web/bundles
+vendor
+node_modules
+bin
+.sass-cache
+.idea
